@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python
 from random import randint
 number = randint(0, 50)
 
@@ -11,8 +11,8 @@ while True:
         print("It's between 1 and 50. Too high!")
     if guess == number:
         print("Right on!")
-	break
+        break
     elif guess < number:
-        print("It is higher than %s.") % guess
+        print("It is higher than %s." % guess)
     elif guess > number:
-        print("It's lower than %s.") % guess
+        print("It's lower than %s." % guess)
