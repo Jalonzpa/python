@@ -1,9 +1,11 @@
 #!/usr/bin/python
+# run as python3
+
 from random import randint
 choice = ""
 
 print("Would you like to roll a six sided die or a twelve sided die? Or more than one die?\n\n1. Six sided die\n2. Twelve sided die\n3. Two six sided dice\n4. Two twelve sided dice\n")
-choice = int(input())
+choice = int(input()) # sets the variable choice to an integer based on the user's input
 
 if choice == 1:
     print("You rolled a %s!" % randint(1,6))
