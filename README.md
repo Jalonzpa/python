@@ -1,7 +1,7 @@
 # Python
 
 ## Cryptocalc
-I don't know if I did this correctly. My maths are a bit shady, so don't depend on it too much
+I don't know if I did this correctly. My maths are a bit shady, so don't depend on it too much.
 
 ## Dieroll
 Rolls an amount of dice. Whatever you want. Flexible.
