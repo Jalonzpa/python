@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # run as python3
+# THIS IS NOT MY ORIGINAL CODE: most of it was taken from https://automatetheboringstuff.com/chapter11/. I am only using it to educate myself.
 # make sure to download the requests and bs4 modules before running this script with 'pip3 install requests' and 'pip3 install bs4'
 
 import requests, sys, webbrowser, bs4
