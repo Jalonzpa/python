@@ -1,13 +1,13 @@
 # Python
 
 ## Cryptocalc
-I don't know if I did this correctly. My maths are a bit shady, so don't depend on it too much.
+A very simple cryptocurrency calculator to tell you how much your coins will be worth if they inflate.
 
 ## Dieroll
 Rolls an amount of dice. Whatever you want. Flexible.
 
 ## Guess
-A fun guess the number game.
+A simple guess the number game.
 
 ## Lucky
 Enter a search term, and it'll pull up the top five results in your default browser. Cool, huh?
