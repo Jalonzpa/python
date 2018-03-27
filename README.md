@@ -1,7 +1,7 @@
 # Python
 
 ## Cryptocalc
-A very simple cryptocurrency calculator to tell you how much your coins will be worth if they inflate.
+A very simple cryptocurrency calculator that provides some simple info about your crypto coins if they gain (or lose!) value.
 
 ## Dieroll
 Rolls an amount of dice. Whatever you want. Flexible.
